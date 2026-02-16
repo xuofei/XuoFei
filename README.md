@@ -25,3 +25,7 @@ Contribute: open an issue or submit a PR.
 Contact: https://github.com/xuofei
 
 In gradients we trust, in entropy we thrive.
+
+
+
+![Snake animation](https://github.com/xuofei/XuoFei/blob/output/github-contribution-grid-snake.svg)
