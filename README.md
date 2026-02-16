@@ -2,41 +2,30 @@
   <img src="https://capsule-render.vercel.app" />
 </p>
 
+<!-- ANIMATED VORTEX ICON -->
 <p align="center">
-  <b>Architecting Agentic Systems | MCP Protocol Engineer | AI Research & Implementation</b>
+  <img src="https://raw.githubusercontent.com" width="120" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
+  <img src="https://readme-typing-svg.demolab.com" />
 </p>
 
-### 🧩 System Profile
-```yaml
-identity: Xuo Fei
-core_competencies:
-  - Agentic_Frameworks: [LangChain, CrewAI, AutoGen]
-  - Protocol_Design: [Model Context Protocol (MCP), WebSocket RPC]
-  - Neural_Architecture: [Transformer Optimization, Vector Embeddings]
-  - Infrastructure: [Docker, Kubernetes, GPU-Cluster-Management]
-current_mission: "Bridging the gap between LLMs and local execution contexts via MCP."
-motto: "In gradients we trust, in entropy we thrive."
-
-### 📊 Performance Analytics
-```markdown
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app" alt="Top Langs" />
+  <code><b style="color:#BD93F9">SYSTEM:</b> ONLINE</code> • <code><b style="color:#8BE9FD">CORE:</b> NEURAL-V1</code> • <code><b style="color:#50FA7B">AUTH:</b> XUO_FEI</code>
 </p>
 
-### 🛠 Operational Toolchain
-- **AI/ML:** ![PyTorch](https://img.shields.io) ![Transformers](https://img.shields.io)
-- **Protocols:** ![MCP](https://img.shields.io) ![gRPC](https://img.shields.io)
-- **Backend:** ![Python](https://img.shields.io) ![Rust](https://img.shields.io)
-
----
-<p align="center">
-<sub><i>"The boundary between local context and global intelligence is a protocol-defined illusion." - Xuo Fei Console</i></sub>
 <br>
-<img src="https://komarev.com" alt="Views" />
-</p>
+
+### 📂 /root/xuo_fei/core_manifest.sh
+```zsh
+#!/bin/zsh
+# ---------------------------------------------------------
+# IDENTITY:     Xuo Fei
+# MISSION:      "Synthesizing local context & global intelligence"
+# PROTOCOLS:    [Model Context Protocol (MCP), WebSocket RPC, gRPC]
+# FRAMEWORKS:   [LangChain, CrewAI, AutoGen, Transformers]
+# INFRA:        [Docker, Kubernetes, GPU-Cluster-Management]
+# ---------------------------------------------------------
+
+echo "In gradients we trust, in entropy we thrive."
