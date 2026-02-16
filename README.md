@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app" />
 </p>
 
-<!-- ANIMATED VORTEX ICON -->
+<!-- STABILES ANIMIERTES ICON -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com" width="120" />
+  <img src="https://media.giphy.com" width="120" />
 </p>
 
 <p align="center">
