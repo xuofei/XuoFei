@@ -1,20 +1,27 @@
-# 🟣 XUO FEI | ARCHITECT
+# 🟣 XUO FEI — Architect
 
 <p align="center">
-  <code><b>SYSTEM:</b> ONLINE</code> • <code><b>CORE:</b> NEURAL-V1</code> • <code><b>AUTH:</b> XUO_FEI</code>
+  <code><b>SYSTEM:</b> ONLINE</code> • <code><b>CORE:</b> NEURAL‑V1</code> • <code><b>AUTH:</b> XUO_FEI</code>
 </p>
 
 ---
 
-### 📂 /root/xuo_fei/core_manifest.sh
-```zsh
-#!/bin/zsh
-# ---------------------------------------------------------
-# IDENTITY:     Xuo Fei
-# MISSION:      "Synthesizing local context & global intelligence"
-# PROTOCOLS:    [Model Context Protocol (MCP), WebSocket RPC, gRPC]
-# FRAMEWORKS:   [LangChain, CrewAI, AutoGen, Transformers]
-# INFRA:        [Docker, Kubernetes, GPU-Cluster-Management]
-# ---------------------------------------------------------
+Mission: "Synthesizing local context & global intelligence."
 
-echo "In gradients we trust, in entropy we thrive."
+Focus: ML systems, model orchestration, distributed inference.
+
+Tech: LangChain, Transformers, Docker, Kubernetes, gRPC.
+
+Quick start:
+
+```bash
+git clone https://github.com/xuofei/XuoFei.git
+cd XuoFei
+less /root/xuo_fei/core_manifest.sh
+```
+
+Contribute: open an issue or submit a PR.
+
+Contact: https://github.com/xuofei
+
+In gradients we trust, in entropy we thrive.
