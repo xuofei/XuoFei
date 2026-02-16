@@ -1,21 +1,10 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app" />
-</p>
-
-<!-- STABILES ANIMIERTES ICON -->
-<p align="center">
-  <img src="https://media.giphy.com" width="120" />
-</p>
+# 🟣 XUO FEI | ARCHITECT
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com" />
+  <code><b>SYSTEM:</b> ONLINE</code> • <code><b>CORE:</b> NEURAL-V1</code> • <code><b>AUTH:</b> XUO_FEI</code>
 </p>
 
-<p align="center">
-  <code><b style="color:#BD93F9">SYSTEM:</b> ONLINE</code> • <code><b style="color:#8BE9FD">CORE:</b> NEURAL-V1</code> • <code><b style="color:#50FA7B">AUTH:</b> XUO_FEI</code>
-</p>
-
-<br>
+---
 
 ### 📂 /root/xuo_fei/core_manifest.sh
 ```zsh
